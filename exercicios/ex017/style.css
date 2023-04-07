@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    /*
+    16px = 1em
+     */
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style:italic;
+}
+/*
+Outra forma de usar
+ */
+p {
+    font: italic normal 1.2em Arial, Helvetica, sans-serif;
+}
